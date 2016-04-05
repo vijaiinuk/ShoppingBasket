@@ -7,4 +7,7 @@ The users of shopping basket can
 4. clear basket
 5. get unmodifiable items collections
 
+All basket items inherit from abstraction Item/AbstractItem,
+hence adding new type of item does not require modification to the Shopping basket.
+
 Please checkout and run the tests to see the functionalities of the ShoppingBasket.
